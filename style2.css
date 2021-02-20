@@ -1,6 +1,7 @@
 body{
 	position:relative;
 	overflow:auto;
+	top: 50%;
 	bottom: 50%;
 	margin: 0;
 	padding: 0;
@@ -24,7 +25,6 @@ a{
 	position:relative;
 	overflow:auto;
 	left:50%;
-	top: 120%;
 	display:grid;
 	transform: translate(-50%,-50%);
 	background: #34495e;
