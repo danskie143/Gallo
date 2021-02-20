@@ -19,8 +19,8 @@ a{
 	border-radius:24px;
 	transition: 0.25s;
 	display:grid;
-	position:absolute;
-	min-hight:400%;
+	position:relative;
+	min-hight:40%;
 	left:50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
