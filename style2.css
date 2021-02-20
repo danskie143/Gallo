@@ -18,8 +18,7 @@ a{
 	outline: none;
 	border-radius:20px;
 	transition: 0.25s;
-	position:absolute;
-	top:90%;
+	position:relative;
 	left:50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
