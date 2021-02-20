@@ -13,14 +13,14 @@ a{
 }
 .box{
 	
-	width: 300px;
-	padding: 40px;
+	width: 200px;
+	padding: 10px;
 	outline: none;
 	border-radius:24px;
 	transition: 0.25s;
 	position:relative;
 	overflow:auto;
-	left:50%, 50%;
+	left:50%;
 	display:grid;
 	transform: translate(-50%,-50%);
 	background: #34495e;
