@@ -22,7 +22,7 @@ a{
 	position:fixed;
 	overflow: auto;
 	left:50%;
-	top:90%;
+	top:60%;
 	display:grid;
 	transform: translate(-50%,-50%);
 	background: #34495e;
