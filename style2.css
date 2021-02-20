@@ -20,6 +20,7 @@ a{
 	transition: 0.25s;
 	display:grid;
 	position:absolute;
+	min-hight:40px;
 	bottom:-120%;
 	left:50%;
 	transform: translate(-50%,-50%);
