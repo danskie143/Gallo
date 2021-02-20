@@ -5,6 +5,7 @@ body{
 	font-family: sans-serif;
 	background: #34495e;
 	position:fixed;
+	left:50%;
 	bottom: 50%;
 }
 .box{
