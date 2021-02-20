@@ -20,7 +20,7 @@ a{
 	border-radius:24px;
 	transition: 0.25s;
 	display:grid;
-	position: center;
+	left: 50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
 	text-align: center;
