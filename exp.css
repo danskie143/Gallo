@@ -4,7 +4,8 @@ body{
 	padding: 0;
 	font-family: sans-serif;
 	background: #34495e;
-	
+	position:fixed;
+	bottom: 50%;
 }
 .box{
 	
@@ -12,7 +13,7 @@ body{
 	padding: 40px;
 	position:absolute;
 	left:50%;
-	top: 70%;
+	top: 50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
 	text-align: center;
