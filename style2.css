@@ -21,7 +21,7 @@ a{
 	position:relative;
 	overflow:auto;
 	left:50%;
-	bottom: 150%;
+	bottom: 440%;
 	display:grid;
 	transform: translate(-50%,-50%);
 	background: #34495e;
