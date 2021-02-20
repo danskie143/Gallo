@@ -20,7 +20,7 @@ a{
 	transition: 0.25s;
 	position:relative;
 	top:90%;
-	overflow:hidden;
+	overflow:fixed;
 	left:50%;
 	display:grid;
 	transform: translate(-50%,-50%);
