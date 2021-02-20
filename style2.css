@@ -20,7 +20,7 @@ a{
 	border-radius:24px;
 	transition: 0.25s;
 	position: fixed;
-	left: 80%;
+	left: 20%;
 	top: 50%;
 	bottom: 40%;
 	transform: translate(-50%,-50%);
