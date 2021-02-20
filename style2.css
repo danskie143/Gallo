@@ -22,6 +22,7 @@ a{
 	position: fixed;
 	display:grid;
 	left: 50%;
+	top: 120%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
 	text-align: center;
