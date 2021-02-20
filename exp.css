@@ -15,9 +15,6 @@ body{
 	
 	width: 500px;
 	padding: 40px;
-	position: absolute;
-	top: 720%;
-	left: 50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
 	text-align: center;
