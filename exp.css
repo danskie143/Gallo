@@ -15,7 +15,7 @@ body{
 	width: 500px;
 	padding: 40px;
 	position: absolute;
-	bottom: 180%;
+	bottom: 80%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
