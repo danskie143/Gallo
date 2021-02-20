@@ -19,6 +19,7 @@ a{
 	border-radius:24px;
 	transition: 0.25s;
 	display:grid;
+	position: relative;
 	align-content: center;
 	transform: translate(-50%,-50%);
 	background: #34495e;
