@@ -4,11 +4,6 @@ body{
 	padding: 0;
 	font-family: sans-serif;
 	background: #34495e;
-	position: absolute;
-	left:50%;
-	right:50%;
-	bottom:-13%;
-	
 	
 }
 .box{
@@ -17,7 +12,7 @@ body{
 	padding: 40px;
 	position:absolute;
 	left:50%;
-	top:100%;
+	top: 50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
 	text-align: center;
