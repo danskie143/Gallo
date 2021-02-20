@@ -5,7 +5,7 @@ body{
 	font-family: sans-serif;
 	background: #34495e;
 	position: absolute;
-	bottom: -14%;
+	bottom: -4%;
 	left:50%;
 	right:50%;
 	
@@ -16,7 +16,7 @@ body{
 	width: 500px;
 	padding: 40px;
 	position: absolute;
-	top: 50%;
+	top: 30%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
