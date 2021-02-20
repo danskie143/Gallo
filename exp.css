@@ -7,7 +7,7 @@ body{
 	position: absolute;
 	left:50%;
 	right:50%;
-	bottom:-10%;
+	bottom:-15%;
 	
 	
 }
@@ -16,7 +16,7 @@ body{
 	width: 500px;
 	padding: 40px;
 	left:50%;
-	top:-120%;
+	top:120%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
 	text-align: center;
