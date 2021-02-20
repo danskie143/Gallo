@@ -20,8 +20,7 @@ a{
 	transition: 0.25s;
 	display:grid;
 	position:relative;
-	bottom:-120%;
-	min-hight:40%;
+	top:-120%;
 	left:50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
