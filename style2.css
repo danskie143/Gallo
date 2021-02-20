@@ -20,7 +20,7 @@ a{
 	transition: 0.25s;
 	position:fixed;
 	left:50%;
-	top: 20%;
+	top: 50%;
 	transform: translate(-50%,-50%);
 	background: #34495e;
 	text-align: center;
